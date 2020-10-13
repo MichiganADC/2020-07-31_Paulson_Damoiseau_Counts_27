@@ -1,0 +1,11 @@
+*.Rproj
+*.iml
+*.idea
+.Rhistory
+.Rproj.user
+
+*.csv
+*.xls*
+*.txt
+*.doc*
+*.py
